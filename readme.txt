@@ -1,5 +1,5 @@
-image - файл для записи изображения
-imageDecoder - программа для привращения изображения в набор данных
-lib - библиотека данных для обучения(1 данное = 24 кб)
-test - данные изображения для теста
-weights - сохраненные после обучения веса
+image - file you are supposed to draw in 
+imageDecoder - program that converts the image into some suitable inputs
+lib - customized dataset(one image is ~ 24KB)
+test - image to recognise 
+weights - weights the program saved for further use
